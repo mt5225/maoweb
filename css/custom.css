@@ -7,3 +7,22 @@ Created:December 2014
 License URI:http://support.wrapbootstrap.com/
 File Description: Place here your custom CSS styles
 */
+
+#logo-footer {
+    width: 30%;
+    height: auto;
+}
+
+.logo#logo {
+    max-width: 75%;
+    height: auto;
+}
+
+.uinnova     {
+    max-width: 80% !important;
+    height: auto;
+}
+
+.background-img-mao-1 {
+  background: url("../mao_asset/house/bg01.jpg") 50% 0px no-repeat;
+}
